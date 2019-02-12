@@ -1,0 +1,419 @@
+Mr.	Mister
+U.S.	United States
+Corp.	corporation
+Inc.	incorporated
+Co.	Company
+UAL	United Air Lines
+Oct.	October
+IBM	International Business Machines
+B.A.T	British American Tobacco
+D.	
+Nov.	November
+Sept.	September
+IRS	Internal Revenue Service
+Ltd.	Limited
+Ms.	Misses
+J.	Junior
+Sen.	senator
+Rep.	Representative
+PLC	public limited company
+U.K.	United Kingdom
+R.	
+WCRS	
+NBC	National Broadcasting Company
+TV	television
+A.	
+GM	General Motors
+IMF	International Monetary Fund
+Gen.	general
+Mass.	Massachusetts
+MCA	
+M.	
+AMR	
+NASA	National Aeronautics and Space Administration
+S&P	Standard & Poor
+Dec.	December
+Jr.	Junior
+E.	
+a.m	
+No.	Number
+L.	
+B.	
+W.	
+C.	
+Mrs.	Mistress
+N.J.	New Jersey
+H.	
+Dr.	doctor
+Jan.	January
+SDI	Strategic Defense Initiative
+Conn.	Connecticut
+F.	
+GOP	Grand Old Party
+St.	Saint
+Ltd	limited
+SEC	Securities and Exchange Commission
+AT&T	
+L.J.	
+Aug.	August
+US$	United States Dollar
+H&R	
+G.	
+Gov.	government
+Ariz.	Arizona
+HUD	United States Department of Housing and Urban Development
+AB	
+P&G	
+N.Y.	New York
+GTE	
+Fla.	Florida
+TVA	Tennessee Valley Authority
+S.A.	
+II	
+AG	
+MGM	Metro-Goldwyn-Mayer Studios
+S.	
+OTC	over the counter
+GNP	gross national product
+A.P.	
+TCI	
+M$	Malaysian dollar
+S	
+US	United States
+LBO	leveraged buyout
+FEMA	Federal Emergency Management Agency
+USX	
+FDA	Food and Drug Administration
+HBO	Home Box Office
+CBOE	Chicago Board Options Exchange
+CD	
+N.	
+RJR	
+D.C.	District of Columbia
+CIA	Central Intelligence Agency
+III	
+Ill.	Illinois
+H.F.	
+T.	
+V.	
+CBS	Columbia Broadcasting System
+ABC	American Broadcasting Company
+N.Y	New York
+Mich.	Michigan
+Neb.	Nebraska
+Cos.	
+I.	
+FT-SE	
+20th	twentieth
+P.	
+USA	United States of America
+NWA	Northwest Airlines
+EDT	Eastern Daylight Time
+FTC	Federal Trade Commission
+C$	canadian dollar
+CDL	
+Md.	Maryland
+Colo.	Colorado
+GE	General Electric
+Ky.	Kentucky
+Va.	Virginia
+CACI	Consolidated Analysis Center Incorporated
+EC	European Council 
+IAFP	International Association of Financial Planners
+DDB	
+AEW	
+IMA	
+Ga.	Georgia 
+CNBC	Consumer News and Business Channel
+J.P.	
+19th	nineteenth,
+N.J	New Jersey
+Feb.	February
+N.C.	North Carolina
+K.	
+RTC	
+Ind.	Indiana
+IRA	individual retirement account
+Pa.	Pennsylvania
+DFC	
+Col.	
+CML	
+Sr.	senior
+BNL	
+NRC	Nuclear Regulatory Commission
+TVX	
+O.	
+JAL	Japan Airlines
+Tenn.	Tennessee
+U.S.A.	United States of America
+S.C	South Carolina
+FM	frequency modulation
+VAX	virtual address extension
+Messrs.	Misters
+U.N.	United Nations
+DAF	
+p.m.	
+b	
+ADN	
+AC&R	
+S.p	
+S&L	savings and loan association
+HHS	Health and Human Services
+Md	Maryland 
+G-7	
+CSC	Computer Sciences Corporation
+vs.	versus
+Okla.	Oklahoma
+Jr	junior
+'80s	eighties
+PNC	
+UBS	
+SF	San Francisco
+N.V	
+XR4Ti	
+CNW	Chicago and North Western Transportation Company
+NCNB	North Carolina National Bank
+c	
+IDS	
+SKF	
+NV	
+B2	
+S.G.	
+Fla	Florida
+Del.	Delaware
+PPI	Producer Price Index
+FHA	
+CP486	
+G-2	
+CDBG	Community Development Block Grant
+Wash.	Washington
+LME	
+NEC	
+DEA	
+UAP	
+Mo.	Missouri 
+CPI	consumer price index
+WTXF	
+FADA	
+16th	sixteenth
+A&M	
+p.m	
+Bhd.	
+NCI	National Cancer Institute
+Prof.	professor
+BP	
+a.m.	
+HEI	
+VOA	Volunteers of America
+Nev.	Nevada
+MCI	
+PDT	Pacific Daylight Time
+10th	tenth
+A.G.	
+Sens.	
+Ark.	Arkansas
+Wis.	Wisconsin
+Mr	mister
+L.L.	
+A.F.	
+ANC	African National Congress
+B-2	
+N.H.	New Hampshire
+Q	
+N.M.	New Mexico
+D.C	District of Columbia
+Rev.	reverend
+BBDO	
+N.C	North Carolina
+USDA	United States Department of Agriculture
+13th	thirteenth
+EPO	European Patent Office
+14th	fourteenth
+Ore.	Oregon
+NATO	North Atlantic Treaty Organization
+PPG	
+GDR	German Democratic Republic
+U.S.A	United States of America
+LIN	
+S.C.	South Carolina 
+U.S.S.R.	Union of Soviet Socialist Republics
+KGB	
+C.J.	
+VCR	
+Bros.	Brothers
+B.F.	
+MMI	
+N.A.	
+PR	
+VGA	video graphics array
+C.R.	
+HLR	
+Geo	
+Cie	
+x	
+U.K	United Kingdom
+IATA	International Air Transport Association
+A&W	
+EPA	Environmental Protection Agency
+FE	
+N.D	North Dakota
+KCRA	
+BDO	
+NAS	National Advanced Systems
+WPP	
+M.A.	
+JROE	
+FIG	
+P\/E	price/earnings
+24th	twenty-fourth
+SSI	strategic sustainable investing
+Chi	
+S.A	
+DC-9	
+UCSF	
+7B	
+G.D.	
+r	
+R.I.	Rhode Island
+P-3	
+55th	fifty-fifth
+LTV	
+20s	twenties
+ETA	
+SE\/30	
+M	
+P-E	
+CRS	
+PX	
+RTZ	
+E-71	
+CPC	
+A&P	
+CIT	
+K	
+BMW	
+I.E.P.	
+f	
+GEC	
+etc.	
+LDC	
+LSX	
+75th	seventy-fifth
+s	
+G.m.b	
+NCR	
+30th	thirtieth
+C	
+ft.	feet
+S$	Singapore dollar
+A-1	
+IMS	
+DEC	Digital Equipment Corporation
+JKD	
+Re	
+R.H.	
+TWA	
+DSM	
+J.C.	
+DOT	
+WSJ	Wall Street Journal
+PLO	Palestine Liberation Organization
+UEP	
+ANB	
+W.R.	
+R.I	Rhode Island
+MBB	
+Miss.	Mississippi
+K-H	
+MAC	management appeals commitee
+JCKC	
+AON	
+SKr1.5	
+HRH	
+NYSE	
+RBS	
+CIM	computer-integrated manufacturing
+EWDB	
+Lt.	limited
+I.B.M.	International Business Machines
+SS	
+FAA	Federal Aviation Administration
+BT	
+CFTC	Commodity Futures Trading Commission
+F16s	
+5th	fifth
+B	
+ARA	
+M.B.A.	Master of Business Administration
+U.	
+A-2	
+Capt.	Captain
+W.Va	West Virginia
+BMP	bone morphogenetic proteins
+SBA	
+MTV	Music Television
+X.	
+340B	
+INC.	Incorporated
+Inc	Incorporated
+La.	Los Angeles
+Y.	
+Maj.	major
+'T-	
+SIA	
+F.S.B.	federal savings bank
+EGA	enhanced graphics adapter
+KIM	
+OPEC	Organization of the Petroleum Exporting Countries
+WTI	
+ISI	Inter-Services Intelligence
+EDA	
+ADS	
+SH	
+J.R.	
+MIT	Massachusetts Institute of Technology
+LA	Los Angeles
+'40s	forties
+L.P.	limited partnership
+D&B	
+CNA	
+L.P	limited partnership
+TRC	
+18th	eighteenth
+RD	
+MC	
+PVC	polyvinyl chloride
+Ala.	Alabama
+FT	
+LJN	
+A.D.L.	
+C-S	
+U.S.-U.S.S.R.	
+7A	
+KTXL	
+WAVE	
+Chao	
+J.M.	
+v.	
+11th	eleventh
+CDA	
+B\/T	
+UPS	
+BBB	
+'70s	seventies
+Ba3	
+KLM	
+A.C.	
+Minn.	Minnesota
+Ky	Kentucky
+DWG	
+NH	
+MBA	Master of Business Administration
+CDC	
+XL	
+3M	
+DJ	
+Sr	senior
+MMS	
+M.D	
+AGS	

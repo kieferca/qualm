@@ -1,0 +1,223 @@
+Mr.	Mister
+U.S.	United States
+Corp.	corporation
+Inc.	incorporated
+Co.	Company
+Mrs.	Mistress
+S&P	Standard & Poor
+Oct.	October
+Nov.	November
+USX	
+Rep.	Representative
+Ltd.	Limited
+A.	
+Dec.	December
+R.	
+St.	Saint
+NL	
+J.	Junior
+D.	
+UAL	United Air Lines
+U.K.	United Kingdom
+II	
+IRS	Internal Revenue Service
+Ms.	Misses
+PLC	public limited company
+Dr.	doctor
+Sept.	September
+Jr.	Junior
+TV	television
+T.	
+C.	
+M.	
+Fla.	Florida
+Mass.	Massachusetts
+E.	
+B.	
+L.	
+N.J.	New Jersey
+N.Y.	New York
+Conn.	Connecticut
+G.	
+PS	
+Ill.	Illinois
+Sen.	senator
+Ltd	limited
+ABA	American Bar Association
+Pa.	Pennsylvania
+FTC	Federal Trade Commission
+POP	
+H.	
+P.	
+NBI	National Business Institute
+Colo.	Colorado
+N.J	New Jersey
+USIA	United States Information Agency
+Mich.	Michigan
+IBM	International Business Machines
+AT&T	
+D.C.	District of Columbia
+DD	
+K.	
+No.	Number
+CS	Credit Suisse
+NEC	
+S.	
+U.S.A.	United States of America
+F.	
+US$	United States Dollar
+ITC	International Trade Centre
+VOA	Volunteers of America
+Nev.	Nevada
+N.V.	
+N.C.	North Carolina
+GAF	
+SEC	Securities and Exchange Commission
+W.	
+FT-SE	
+AG	
+SCI	
+PC	personal computer
+HHS	Health and Human Services
+N.C	North Carolina
+OTC	over the counter
+DES	diethylstilbestrol
+M.D.	
+III	
+RMS	
+DSM	
+W.R.	
+CBS	Columbia Broadcasting System
+BMP	bone morphogenetic proteins
+Va.	Virginia
+BTR	
+Feb.	February
+J.L.	
+Prof.	professor
+R.P.	
+S&L	savings and loan association
+Gov.	government
+Ariz.	Arizona
+GM	General Motors
+GMAC	
+C$	canadian dollar
+NTG	
+NIH	National Institutes of Health
+B.A.T	British American Tobacco
+N.M.	New Mexico
+Ga.	Georgia 
+GOP	Grand Old Party
+Del.	Delaware
+p.m	
+NBC	National Broadcasting Company
+Ore.	Oregon
+MITI	Ministry of International Trade and Industry
+A.L.	
+Miss.	Mississippi
+RBC	
+Messrs.	Misters
+W.N.	
+NCNB	North Carolina National Bank
+CTBS	
+ADRs	average daily rates
+Ind.	Indiana
+LSI	
+p.m.	
+N.V	
+GHKM	
+L.P.	limited partnership
+Co	Company
+Cos.	
+IBC	
+10th	tenth
+Minn.	Minnesota
+C.J.B.	
+CTB	
+US	United States
+YMCA	Young Men's Christian Association
+F.H.	
+Z.	
+S.p.A.	
+I.	
+R.D.	
+Wis.	Wisconsin
+b	
+Ky.	Kentucky
+DDB	
+E.W.	
+PTA	
+WFRR	
+H.N.	
+WPP	
+A.C.	
+A.D.	
+WTVJ	
+UBS	
+Jan.	January
+NRDC	
+EST	
+Wash.	Washington
+S.p	
+L.A.	Los Angeles
+R.I.	Rhode Island
+N.H.	New Hampshire
+LTV	
+Mo.	Missouri 
+30s	thirties
+GHS	
+AIDS	acquired immune deficiency syndrome
+Aug.	August
+CIA	Central Intelligence Agency
+Inc	Incorporated
+PAP	
+NYSE	
+Lt.	limited
+Rev.	reverend
+USA	United States of America
+DOT	
+AMR	
+Pty.	
+Mrs	mistress
+U.S.A	United States of America
+Ala.	Alabama
+Md.	Maryland
+B	
+FT	
+E.C.	
+La.	Los Angeles
+CSV	
+W.D.	
+etc.	
+F.W.	
+WHAS	
+TXO	
+N.Y	New York
+S.A	
+G.m.b	
+CAT	
+O.	
+NCR	
+INS	Immigration and Naturalization Service
+WAFA	
+A-D	
+11th	eleventh
+Tenn.	Tennessee
+J.P.	
+Sr.	senior
+G	
+HUD	United States Department of Housing and Urban Development
+vs.	versus
+EC	European Council 
+Ed	
+N.	
+U.S.S.R.	Union of Soviet Socialist Republics
+Jr	junior
+'80s	eighties
+CDC	
+CEO	chief cxecutive officer
+Ill	Illinois
+WTD	
+PLO	Palestine Liberation Organization
+FBI	Federal Bureau of Investigation
+FAX	facsimile
+OSHA	Occupational Safety and Health Administration

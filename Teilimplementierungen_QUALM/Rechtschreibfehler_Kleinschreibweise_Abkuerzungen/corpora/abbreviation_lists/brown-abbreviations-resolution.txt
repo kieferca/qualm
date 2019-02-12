@@ -1,0 +1,735 @@
+Mr.	Mister
+Mrs.	Mistress
+Dr.	doctor
+St.	Saint
+U.S.	United States
+J.	Junior
+S.	
+A.	
+C.	
+E.	
+W.	
+B.	
+Jr.	Junior
+H.	
+Aj	
+D.	
+M.	
+R.	
+U.	
+F.	
+Fig.	figure
+etc.	
+L.	
+No.	Number
+U.N.	United Nations
+Co.	Company
+P.	
+G.	
+TV	television
+p.m.	
+Sept.	September
+Sen.	senator
+p	
+O.	
+Oct.	October
+N.	
+T.	
+Q	
+D.C.	District of Columbia
+Aug.	August
+Gen.	general
+NATO	North Atlantic Treaty Organization
+a.m.	
+Rev.	reverend
+Nov.	November
+Jan.	January
+Feb.	February
+Inc.	incorporated
+B.C.	before Christ
+Gov.	government
+lb.	pound
+Dec.	December
+TSH	thyroid-stimulating hormone
+K.	
+I.	
+Sec.	section
+p.	page
+Af	austenite finish
+V.	
+15th	fifteenth
+Ave.	avenue
+Rep.	Representative
+A.M.	
+Ill.	Illinois
+WTV	
+N.Y.	New York
+Mass.	Massachusetts
+cm.	centimeter
+20th	twentieth
+fig.	figure
+7th	seventh
+vs.	versus
+Corp.	corporation
+mg.	milligrams
+A.L.A.M.	Association of Licensed Automobile Manufacturers
+A.D.	
+Fla.	Florida
+mm.	millimeter
+17th	seventeenth
+Figs.	figures
+mg/l	
+no.	number
+gm.	gram
+AIA	Aerospace Industries Association
+Av.	avenue
+ft.	feet
+PBS	
+P.M.	
+VA	
+Pa.	Pennsylvania
+UN	United Nations
+Lt.	limited
+ADC	
+O.K.	
+AM	
+FBI	Federal Bureau of Investigation
+Mo.	Missouri 
+Op.	opus
+19th	nineteenth,
+N.C.	North Carolina
+figs.	figures
+La.	Los Angeles
+CD	
+4th	fourth
+18th	eighteenth
+D	
+n	
+SBA	
+Y.	
+cf.	
+Tex.	Texas
+Sr.	senior
+Va.	Virginia
+24th	twenty-fourth
+B	
+IBM	International Business Machines
+9th	ninth
+CDC	
+C	
+Ala.	Alabama
+Ann	
+Col.	
+GNP	gross national product
+DC	
+CTA	
+NS	
+13th	thirteenth
+rpm	rotations per minute
+U.S.S.R.	Union of Soviet Socialist Republics
+cm	centimeter
+NBC	National Broadcasting Company
+BTU	
+6th	sixth
+lbs.	pounds
+Pp.	pages
+I.Q.	intelligence quotient
+Ariz.	Arizona
+16th	sixteenth
+Ga.	Georgia 
+28th	twenty-eighth
+t	
+DA	
+UPI	
+GOP	Grand Old Party
+lb	pound
+Gyp	
+S.K.	
+Ltd.	Limited
+BW	biological warfare
+U.N.F.P.	National Union of Popular Forces
+AP	
+M	
+23d	twenty-third
+Md.	Maryland
+SMU	
+Capt.	Captain
+30th	thirtieth
+Mt.	
+Miss.	Mississippi
+La	
+cu.	cubic
+Drs.	doctors
+SR	
+sq.	
+Wash.	Washington
+Ref.	reference
+Prof.	professor
+U.S.A.	United States of America
+DIOCS	define input/output control system
+NW	New Westminster
+COAHR	
+SS	
+29th	twenty-ninth
+cc.	cubic centimeters
+Hon.	
+A.M.A.	
+14th	fourteenth
+O.E.C.D.	
+BAM	
+AWOC	
+RCA	
+Mich.	Michigan
+hys	
+Mao	
+M.A.	
+TR	
+yrs.	
+KC	
+dia.	
+ESP	
+Myra	
+1040A	
+Tao	
+pp.	
+DUF	
+TNT	
+Ch.	
+Blvd.	
+hr.	
+mm	
+Rue	
+AID	
+4-H	
+sec.	
+Sue	
+2d	second
+NYU	
+NE	
+Dept.	
+OAS	
+Rd.	
+A.B.	
+2nd	second
+SW	
+H.M.S.	
+V-1	
+C'	
+Dist.	
+PTC	
+Stat.	
+Atty.	
+NBS	
+23rd	twenty-third
+EQU	
+g	
+P.D.I.	
+USP	
+i.d.	
+e.g.	for example
+B.'s	
+Ore.	Oregon
+BBB	
+USSR	Union of Soviet Socialist Republics
+DRDW	
+hr	
+PTA	
+ABO	
+DTF	
+f	
+WBAI	
+ounce	
+Bldg.	
+AIMO	
+in.	inch
+b	
+D'	
+Kan.	
+3rd	third
+Conn.	Connecticut
+wry	
+shoe	
+Mar.	
+D.A.	
+eqn.	
+11th	eleventh
+CTCA	
+LD	
+Okla.	Oklahoma
+trio	
+oz.	
+H.M.	
+FM	frequency modulation
+25th	twenty-fifth
+LOC	
+Ky.	Kentucky
+FHA	
+Vol.	volume
+NAEBM	
+x	
+SCR	
+Mmm	
+21st	twenty-first
+Wm.	
+PABA	
+FN	
+Mmes.	
+PM	
+E.G.T.	
+EEG	
+D.W.	
+72nd	seventy-second
+fps	
+FDR	
+ca.	circa
+chap.	
+R.H.	
+dept.	
+T.W.	
+gym	
+Coe	
+M.P.	
+AB	
+S.C.	South Carolina 
+50th	fiftieth
+Flea	
+F.D.R.	
+Prop.	
+ex-Mrs.	
+F.R.	
+ml	
+Sp	
+C.C.B.	
+58th	fifty-eigth
+sp.	
+43*0C.	
+'em	
+ABC	American Broadcasting Company
+MS	
+Uh	
+87th	
+Ed.	
+U.S.C.	
+Reps.	
+CO	
+GE	General Electric
+AEC	
+cps	
+'im	
+RDW	
+Assn.	
+Mme	
+31st	thirty-first
+PHS	
+hym	
+h	
+BOD	
+Glee	
+mph	
+18e	
+Ski	
+Supt.	
+a.	
+K	
+Rte.	
+8th	
+Jr.'s	
+46th	forty-sixth
+Tech.	
+A-1	
+BG	
+Po'	
+Zoo	
+LP	
+Phi	
+U.M.C.I.A.	
+FDA	Food and Drug Administration
+N	
+X	
+ASW	
+Ind.	Indiana
+I.R.S.	
+J.D.H.	
+Minn.	Minnesota
+Colo.	Colorado
+hp.	
+ETV	
+NCTA	
+51st	fifty-first
+Eq.	
+SH	
+DSW	
+pl.	
+Du	
+Q.	
+N.J.	New Jersey
+F.B.I.	
+Wee	
+l.	
+26th	twenty-sixth
+CH	
+B.A.	
+l'	
+kc.	
+LSO	
+H	
+LD056	
+-.5	
+F.S.C.	
+T.B.	
+Chou	
+A-Z	
+3's	
+mc.	
+End	
+R.'s	
+K.J.P.	
+Bay	
+$.30/mbf	
+I.B.M.	International Business Machines
+Keo	
+DU	
+BMT	
+S	
+P.m.	
+NC	
+G.O.P.	
+FFA	
+al.	
+Il	
+Rye	
+J.H.	
+oathe	
+2's	
+I-E	
+A.K.C.	
+LM	
+Chi	
+37th	thirty-seventh
+Qui	
+N.Y.U.	
+TUC	
+C.A.I.P.	
+EWC	
+R.L.	
+Goa	
+ESN	
+Pfc.	
+W.'s	
+101b	
+Bea	
+mEq.	
+E.O.	
+YMCA	Young Men's Christian Association
+135*0C.	
+Kans.	
+pry	
+pvt	
+2/c	
+M.'s	
+Di	
+Pfau	
+A135	
+1M	
+seq.	
+WAC	
+B.B.C.	
+sly	
+A/3	
+LSU	
+Ask	
+W-2	
+WAO	
+Mio	
+Rul.	
+Tenn.	Tennessee
+Presbyterian-St.	
+plea	
+63d	sixty-third
+Lond.	
+3MM	
+OK	
+fry	
+/r/	
+App.	
+DSM	
+Cf.	
+W.R.	
+JNR	
+SS.	
+B-58	
+17e	
+Y.W.C.A.	
+W.M.	
+S-D	
+54th	fifty-fourth
+Gre.	
+Messrs.	Misters
+AMA	
+60*0C.	
+Nev.	Nevada
+SNP	
+43*0C	
+JYM	
+D.J.	
+FELA	
+5th	fifth
+w	
+k	
+ICA	
+10th	tenth
+IJAL	
+PFC	
+N.D.	
+Mae	
+W.G.	
+Ivy	
+mos.	
+42d	forty-second
+r	
+W	
+NLRB	
+Trio	
+'60s	sixties
+USN.	
+6a	
+Ngo	
+sloe	
+BGS	
+1-o	
+ml.	
+Pye	
+Ry.	
+ICC	
+{0,T}	
+USIS	
+Cir.	
+Thea	
+OH	
+Man	
+Tim	
+an'	
+G.B.S.	
+TCU	
+WWRL	
+BSN	
+THC	
+B.S.	
+0.3M	
+Thee	
+U-2	
+Us	
+P.S.	
+Kas.	
+K.G.	
+Ct.	
+Vs.	
+940Y	
+Ax	
+$10.3	
+A5	
+shea	
+phyla	
+742C	
+gpd	
+7A	
+49th	forty-ninth
+Maj.	major
+CSF	
+Wyn	
+Fra	
+I.L.	
+P.L.	
+12th	
+Q3	
+9a	
+FLN	
+what-will-T.	
+yff	
+prop.	
+KSAN	
+Tree	
+71*&0C.	
+KV	
+J	
+nw.	
+Yok.	
+Air	
+min.	
+Brae	
+MGM	Metro-Goldwyn-Mayer Studios
+H.L.	
+WPA	
+N.A.	
+Jai	
+E.T.	
+Cyr	
+u	
+V	
+Amy	
+u.	
+80th	eightieth
+75th	seventy-fifth
+Cr	
+K.C.	
+UK	
+M-1	
+N/g	
+NRL	
+OEP	
+27th	twenty-seventh
+Sens.	
+McN.	
+CJS	
+A.A.U.	
+Yea	
+whoe	
+9e	
+Del.	Delaware
+340TR	
+OBE	
+Mont.	
+D.O.A.	
+Ter.	
+Poe	
+RDF	
+H.P.R.	
+S.S.R.	
+O-B	
+GA	
+320TR	
+Brig.	
+NRA	
+36th	thirty-sixth
+Jas.	
+A.I.D.	
+OWI	
+o'	
+tax	
+OK.	
+$.054/mbf	
+DPW	
+MF	
+P'	
+wynne	
+AVC	
+U.M.T.	
+Pt.	
+Sha.	
+78th	seventy-eighth
+synce	
+M.D.	
+56A	
+B.D.	
+32*0C.	
+70th	
+UGF	
+En	
+P.GA	
+Eng.	
+CCC	
+Gee	
+C.C.N.Y.	
+$12.1	
+ft	
+HBO	Home Box Office
+60's	
+SD	
+Mts.	
+ACS	
+I.M.F.	
+Pee	
+Mfg.	
+CV	
+du	
+33d	thirty-third
+ed.	
+IND	
+IQ	
+Eh	
+8-oz.	
+Ibn	
+Ath.	
+Che	
+In	
+CB	
+U.s.	
+yd.	
+AH6	
+NAB	
+U.'s	
+ex-Gov.	
+P.-T.A.	
+514C	
+MPH	
+Vue	
+USGA	
+Lo	
+H.W.	
+St.-Pol	
+W.H.	
+Wis.	Wisconsin
+Whoa	
+Les	
+D8	
+Chmn.	
+PWA	
+PQ	
+var.	
+Rae	
+52nd	fifty-second
+Red	
+vp	
+Dei	
+ASME	
+ARF	
+USOM	
+tsh	
+M-4	
+w.	
+'90s	
+S.S.	
+N.M.	New Mexico
+Kyo	
+B70	
+mg	
+R	
+USO	
+$.07/cwt	
+OME	
+NMR	
+AL	
+SWC	
+Cal.	California
+83rd	eigthy-third
+LD060	
+OOH	
+outdo	
+CBS	Columbia Broadcasting System
+Zwei	
+M-K	
+U-I	
+viz.	
+MVP	
+RPM	
+N.L.	
+RDWS	
+Y.M.H.A.	
+SWAO	
+Dak.	
+y	
+ATP	
+L.S.U.	
+9b	
+JYJ	
+Thai	
+9N	
+23A	
+Cmdr.	
+rf	
+MPl	
+SE	
+2a	
+KKK	
+PMR	
+1a	
